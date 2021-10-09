@@ -14,4 +14,4 @@ With this 2 examples is possible to deploy a Nextjs App on AWS, easy and simple 
 
 Obs.: Every app has is own readme and details.
 
-***Next Steps: Deplo with Amplify, Serverless and CloudFront / S3.***
+***Next Steps: Deploy with Amplify, Serverless and CloudFront / S3.***
